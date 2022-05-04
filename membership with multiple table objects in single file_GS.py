@@ -17,7 +17,7 @@ from pyspark.sql.functions import *
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC Commands 4, 5 and 6 are part of out standard config notebook so no changes required
+# MAGIC Commands 4, 5 and 6 are part of out standard config notebook so no changes required.
 
 # COMMAND ----------
 
