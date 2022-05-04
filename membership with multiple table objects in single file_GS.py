@@ -1,4 +1,4 @@
-# Databricks notebook source
+# Databricks notebook source - extended comment directly in GIT
 
 from pyspark.sql.functions import *
 
