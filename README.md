@@ -11,7 +11,7 @@ This notebook is to demonstrate as how to read **Single Input File** (Json this 
 
 
 ## Autoloader Documentation and Other important links
-https://docs.databricks.com/spark/latest/structured-streaming/auto-loader.html 
+https://docs.databricks.com/spark/latest/structured-streaming/auto-loader.html
 https://www.youtube.com/watch?v=kNG-5uRY4o8 
 https://docs.databricks.com/spark/latest/structured-streaming/auto-loader-schema.html 
 https://databricks.com/blog/2020/02/24/introducing-databricks-ingest-easy-data-ingestion-into-delta-lake.html
